@@ -1,4 +1,4 @@
-![We Are Anonymous](https://tryhackme.com/badge/993030)
+We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us.
 
 <!---
 clides/clides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
