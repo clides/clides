@@ -1,4 +1,4 @@
-We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us.
+I am big noob at cyber sec plz help. I am also script kiddie D:
 
 <!---
 clides/clides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
