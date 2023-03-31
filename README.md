@@ -1,4 +1,4 @@
-I am big noob at cyber sec plz help. I am also script kiddie D:
+cybersec cool, web hack cooler, wannabe bug bounty hunter
 
 <!---
 clides/clides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
