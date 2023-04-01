@@ -1,3 +1,5 @@
-cybersec cool, web hack cooler, wannabe bug bounty hunter
+cybersec cool
 
-![tryhackme stats](https://raw.githubusercontent.com/clides/clides/master/.github/workflows/tryhackme-badge-workflow.yml)
+wannabe ethical hacker, penetration tester, bug bounty hunter
+
+if you also interested in cyber sec and wanna chat heres my discord (Euclides#9989)
