@@ -1,5 +1,8 @@
 cybersec cool
+ai cooler
 
-wannabe ethical hacker, penetration tester, bug bounty hunter
+python superior language
 
-if you also interested in cyber sec and wanna chat heres my discord (clides#9989)
+wannabe ai dev and enterpreneur (having ur own business is always the meta)
+
+if you also interested in ai and wanna chat and do side projects with me and the gang heres my discord id (clides)
