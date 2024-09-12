@@ -1,1 +1,1 @@
-scrpt kiddie
+script kiddie
