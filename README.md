@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 AI/ML Enthusiast: Exploring cutting-edge AI and ML techniques and their applications.
 
-Project Development: Building projects that are not only fun but also applicable to real-life scenarios.
+Project Development: Building projects that are not only fun but also applicable to real-life scenarios. Check out my projects [here](https://github.com/clides/Projects)
 
 Open Source: Contributing to the open-source community to share knowledge and grow together.
 
 Technologies I Love ❤️
 
-Programming Languages: Python, Java, Racket, C
+Programming Languages: Python, Java, Racket, C, C#
 
 AI/ML Tools: TensorFlow, PyTorch, Scikit-learn, OpenCV, etc
 
