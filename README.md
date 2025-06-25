@@ -3,7 +3,8 @@
 
 ## 🔍 About Me  
 - Passionate about **AI/ML systems**, with hands-on experience in Deep Learning, Natural Language Processing, and MLOps
-- One of the top contributors to **[RankLLM](https://github.com/castorini/rank_llm)** (Python toolkit for reproducible information retrieval research using rerankers)  
+- One of the top contributors to **[RankLLM](https://github.com/castorini/rank_llm)** (Python toolkit for reproducible information retrieval research using rerankers)
+- Average nvim enjoyer
 
 ## 📬 Let's Connect  
 - **Email:** daniel168.guo@gmail.com  
