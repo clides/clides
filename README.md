@@ -19,6 +19,6 @@
 
 ## 📬 Let's Connect  
 - **Email:** daniel168.guo@gmail.com
-- **Resume:** [here](https://drive.google.com/file/d/1WU1-dV3AQ5LAlstkjNptq4BdfQvVNwp9/view?usp=sharing)
+- **Resume:** [here](https://github.com/clides/clides/blob/main/DanielGuo_Resume.pdf)
 - **LinkedIn:** [linkedin/daniel-guo](https://www.linkedin.com/in/daniel-guo-656251272/)  
 - **Open to:** Research collaborations, open-source contributions, and ML/SWE internship and coop opportunities 
