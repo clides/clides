@@ -1,5 +1,5 @@
 # Daniel Guo 👋  
-**Computer Science Student @ University of Waterloo**  
+**Computer Science Student w/ AI Specialization @ University of Waterloo**  
 
 ## 🔍 About Me  
 - Passionate about **AI/ML systems**, with hands-on experience in Deep Learning, Natural Language Processing, and MLOps
