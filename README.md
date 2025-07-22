@@ -20,7 +20,7 @@
 **[Pyserini](https://github.com/castorini/pyserini/)** (toolkits for reproducible information retrieval research):
 - Created documentation for various regression tests as well as computing their scores
 - Added feature to perform sparse vector encoding with SPLADE models to the pipeline
-- Integrated the <ins>[M-BEIR](https://huggingface.co/datasets/TIGER-Lab/M-BEIR)</ins> and <ins>[UniIR](https://github.com/TIGER-AI-Lab/UniIR)</ins> models into the pyserini pipeline for multimodal retrieval
+- Integrated the [M-BEIR](https://huggingface.co/datasets/TIGER-Lab/M-BEIR) and [UniIR](https://github.com/TIGER-AI-Lab/UniIR) models into the pyserini pipeline for multimodal retrieval
 
 ## 📬 Let's Connect  
 - **Email:** daniel168.guo@gmail.com
