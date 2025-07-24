@@ -17,7 +17,7 @@
 - Created documentation for various regression tests as well as computing their scores
 - Built indexes and uploaded them to HuggingFace datasets for easy retrieval
 
-**[Pyserini](https://github.com/castorini/pyserini/)** (toolkits for reproducible information retrieval research):
+**[Pyserini](https://github.com/castorini/pyserini/)** (Python toolkit for reproducible information retrieval research with sparse and dense representations):
 - Created documentation for various regression tests as well as computing their scores
 - Added feature to perform sparse vector encoding with SPLADE models to the pipeline
 - Integrated the [M-BEIR](https://huggingface.co/datasets/TIGER-Lab/M-BEIR) and [UniIR](https://github.com/TIGER-AI-Lab/UniIR) models into the pyserini pipeline for multimodal retrieval
