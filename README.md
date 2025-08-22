@@ -15,14 +15,17 @@
 - Helped create unittests and perform regression tests to update regression scores
 - Updated RankLLM implementation and usage in other popular repos such as LangChain, rerankers, and LlamaIndex
 
-**[Anserini](https://github.com/castorini/anserini)** (Lucene toolkit for reproducible information retrieval research)
-- Created documentation for various regression tests, as well as computing their scores
-- Built indexes and uploaded them to HuggingFace datasets for easy retrieval
-
 **[Pyserini](https://github.com/castorini/pyserini/)** (Python toolkit for reproducible information retrieval research with sparse and dense representations):
 - Integrated the [M-BEIR](https://huggingface.co/datasets/TIGER-Lab/M-BEIR) dataset and [UniIR](https://github.com/TIGER-AI-Lab/UniIR) models into the pyserini pipeline for multimodal retrieval
 - Added feature to perform sparse vector encoding with SPLADE models to the pipeline
 - Created documentation for various regression tests, as well as computing their scores
+
+**[UniIR-for-Pyserini(https://github.com/clides/UniIR-for-Pyserini)** (Fork of the original UniIR repo for easy Pyserini integrations):
+- Created and released PyPI package for uniir-for-pyserini, which is a fork of the original repo but modified for easy Pyserini integration
+
+**[Anserini](https://github.com/castorini/anserini)** (Lucene toolkit for reproducible information retrieval research)
+- Created documentation for various regression tests, as well as computing their scores
+- Built indexes and uploaded them to HuggingFace datasets for easy retrieval
 
 ## 📬 Let's Connect  
 - **Email:** daniel168.guo@gmail.com
