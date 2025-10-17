@@ -32,3 +32,5 @@
 - **Resume:** [here](https://github.com/clides/clides/blob/main/DanielGuo_Resume.pdf)
 - **LinkedIn:** [linkedin/daniel-guo](https://www.linkedin.com/in/daniel-guo-656251272/)  
 - **Open to:** ML/SWE internship and coop opportunities, research collaborations, and open-source contributions 
+
+[![clides's GitHub stats](https://github-readme-stats.vercel.app/api?username=clides)](https://github.com/anuraghazra/github-readme-stats)
