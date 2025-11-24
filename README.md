@@ -20,7 +20,7 @@
 - Added feature to perform sparse vector encoding with SPLADE models to the pipeline
 - Created documentation for various regression tests, as well as computing their scores
 
-**[UniIR-for-Pyserini(https://github.com/clides/UniIR-for-Pyserini)** (Fork of the original UniIR repo for easy Pyserini integrations):
+**[UniIR-for-Pyserini](https://github.com/clides/UniIR-for-Pyserini)** (Fork of the original UniIR repo for easy Pyserini integrations):
 - Created and released PyPI package for uniir-for-pyserini, which is a fork of the original repo but modified for easy Pyserini integration
 
 **[Anserini](https://github.com/castorini/anserini)** (Lucene toolkit for reproducible information retrieval research)
